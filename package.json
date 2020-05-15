@@ -1,6 +1,6 @@
 {
   "name": "robofamily",
-  // "homepage": "https://drunkenmonkey007.github.io/robofamily",
+  "homepage": "https://drunkenmonkey007.github.io/robofamily",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
